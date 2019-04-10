@@ -11,7 +11,7 @@ import {
 } from 'react-native'
 
 
-import App from "./view/a/az_sectionList"
+import App from "./view/project/app"
 
 
 AppRegistry.registerComponent(appName, () => App);
